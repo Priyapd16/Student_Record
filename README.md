@@ -1,5 +1,5 @@
 # Student Record Management System
-### Language: C | OS: Linux | Compiler: GCC
+### Language: C | OS: Linux | Compiler: Terminal
 
 A multi-file console application to manage student 
 records using a Singly Linked List with persistent 
