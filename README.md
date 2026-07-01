@@ -17,7 +17,7 @@ storage via File I/O.
 
 ## Build & Run
 $ make
-$ ./student
+$ ./exe
 ## Project Structure
 ├── student.h → Struct & declarations
 ├── main.c → Menu loop
